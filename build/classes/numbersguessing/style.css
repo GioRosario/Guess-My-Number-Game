@@ -1,0 +1,11 @@
+root{
+    display: block;
+}
+
+.root{
+    -fx-background-color: white;
+}
+
+#guessButton{
+    -fx-background-color: orange;
+}
